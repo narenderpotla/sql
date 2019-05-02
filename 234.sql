@@ -1,0 +1,1 @@
+CREATE USER airbnb IDENTIFIED BY Oraclehome123$
