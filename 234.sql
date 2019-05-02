@@ -1,1 +1,1 @@
-CREATE USER airbnb IDENTIFIED BY Oraclehome123$
+CREATE USER airbnb IDENTIFIED BY Oraclehome123$;
